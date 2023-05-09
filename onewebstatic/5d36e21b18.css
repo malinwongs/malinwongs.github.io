@@ -1,0 +1,29 @@
+.mobileV div[data-id='A5ACE7A6-76AA-4DCF-A85D-797AF3B52178'] > div:first-child {border-top-left-radius: 10px !important;
+border-top-right-radius: 10px !important;
+border-bottom-right-radius: 10px !important;
+border-bottom-left-radius: 10px !important;
+}
+
+            .mobileV div[data-id='E301BB05-698E-4239-993E-C61DB707CDCA'] {
+                display: block !important;
+            }
+.mobileV div[data-id='0E7A9D2E-B3D9-43C4-BCC2-5FADD36C87C8'] > div:first-child {border-top-left-radius: 10px !important;
+border-top-right-radius: 10px !important;
+border-bottom-right-radius: 10px !important;
+border-bottom-left-radius: 10px !important;
+}
+
+            .mobileV div[data-id='07A7C023-0814-43E3-A65C-D6DACEA34324'] {
+                display: block !important;
+            }
+.mobileV div[data-id='178DEA03-F598-4E77-A6F0-389FE94AE425'] > div:first-child {border-top-left-radius: 10px !important;
+border-top-right-radius: 10px !important;
+border-bottom-right-radius: 10px !important;
+border-bottom-left-radius: 10px !important;
+}
+
+            .mobileV div[data-id='4CFC31F1-52DF-49BB-813C-B1D59EF67A62'] {
+                display: block !important;
+            }
+        @media (max-width: 650px) { body { min-width: 'initial' } body.desktopV { min-width: 1336px } }
+        @media (min-width: 651px) { body { min-width: 1336px } body.mobileV { min-width: initial } }

@@ -1,0 +1,123 @@
+
+            .mobileV div[data-id='38F5928D-C686-429A-A16D-7B4BCE22BF49'] {
+                display: block !important;
+            }
+.mobileV div[data-id='2EE61300-A137-44F8-AE03-2F1723DE2935'] > div:first-child {border-top-left-radius: 10px !important;
+border-top-right-radius: 10px !important;
+border-bottom-right-radius: 10px !important;
+border-bottom-left-radius: 10px !important;
+border-top-width: 1px !important;
+border-right-width: 1px !important;
+border-bottom-width: 1px !important;
+border-left-width: 1px !important;
+}
+
+            .mobileV div[data-id='B9C9A42E-D7C5-43C0-BA55-E87DFF2DFFD0'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='4A4E43F6-B0DA-4053-A160-F8DC2A34A5EB'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='338F430B-19EA-410C-BC6C-2114E0AB2C3D'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='713BA169-F548-4EB7-9370-48959A111BCE'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='EB89CD38-6162-4FA3-8547-CCAEDCC46A94'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='80A99F5A-D091-4689-AC28-A458FEC6B2B0'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='3C233739-75A8-40C2-AAAA-EBD15BF0F28C'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='5EFF4E4A-15C6-4D35-AE5B-E42AA402E224'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='53194C38-B54A-48D2-923E-8A8BE686DDFF'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='7CE1A22B-8AB3-4D97-80A2-F5CE5F64801C'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='96CF6BFC-769E-4F6B-96BC-D98FA1F4FEA9'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='473B0773-6FB3-4F4B-8287-AC77181BB04C'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='14BBF5B9-DE44-4785-86EE-D4B51EA46405'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='A71CA73F-9D22-4AD7-8944-FF13B545FF36'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='9B4FEC0B-9D6D-42CF-97EF-842300C7001F'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='14105C96-D750-4780-8C32-F020926ECBE8'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='3BA82DFF-04DC-4E62-BCCD-8F786587008F'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='14E010EA-4E56-490F-9079-76B4EC700604'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='F03BFE9A-CEEE-49E8-9645-BE6CC640E3C9'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='0CA95572-0AC4-4527-8D74-92950E6F7014'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='97049224-94AA-4BCD-B7D4-9EA63B65D35F'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='63CCF7BF-838A-441C-8A3D-B1013B09535F'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='7FA67DAB-95AA-44D3-9B4C-5CB1AFA089F5'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='B18C6183-FC11-4978-980B-CF5DB04DF439'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='1633C147-AF06-40F3-AEDD-E146D46AE2A8'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='EB909FE4-85A9-4F8C-B620-1784EC930A3F'] {
+                display: block !important;
+            }
+
+            .mobileV div[data-id='285600EA-C6EA-4DCE-991D-51F5A8647923'] {
+                display: block !important;
+            }
+        @media (max-width: 650px) { body { min-width: 'initial' } body.desktopV { min-width: 1626px } }
+        @media (min-width: 651px) { body { min-width: 1626px } body.mobileV { min-width: initial } }
